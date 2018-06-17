@@ -1,0 +1,28 @@
+header {
+    background-color: blueviolet;
+    height:150px;
+    text-align:center;
+}
+
+h1 {
+    font-size: 80px; 
+    color: azure;
+    position: relative;
+    left: 6vw;
+    position: relative;
+    left: 3vw;
+    position: relative;
+    top: 2vh;
+}
+
+ .three-ring {
+    text-align:top;
+    width:150px;
+    height:150px;
+    position:relative;
+    top: -21.8vh;
+    left: -44vw;
+}
+
+
+

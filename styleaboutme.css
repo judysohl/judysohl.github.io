@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(182, 210, 212)
+}
+header {
+    text-align: center;
+}
+li{
+    display: inline;
+}
+a{
+    text-decoration: none
+}
+nav {
+    background-color: rgb(242, 249, 250)
+
+}
+nav a{
+    color: black
+}
+nav a{
+    font-size: 30 
+
+}
+nav a{
+    padding: 110px
+}
+header {
+    margin-top: 50px
+}
